@@ -1,4 +1,3 @@
-
 /*Header*/
 
 .header {
@@ -276,7 +275,7 @@
   padding: 50px;
 }
 
-.footer__address{
+.footer__address {
   display: flex;
   flex-direction: column;
   justify-self: right;
@@ -288,7 +287,7 @@
   font-style: normal;
 }
 
-.footer__menu-list{
+.footer__menu-list {
   display: flex;
   flex-direction: column;
   font-weight: normal;
@@ -296,12 +295,13 @@
   text-align: center;
 }
 
-.footer__social-list{
+.footer__social-list {
   display: flex;
   gap: 48px;
 }
 
-.footer__menu-link_active:hover, .footer__address-active:hover{
+.footer__menu-link_active:hover,
+.footer__address-active:hover {
   text-decoration: none;
 }
 
